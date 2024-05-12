@@ -22,7 +22,7 @@ you can jettison the initial folder that you unzipped from github ,along with th
 to desktop.You are free to use and distribute your new software under apache 2.0 , remember to delete your
 api key from your .env file if you do reproduce and distribute.))
 
-![Alt text](genesis.gif)
+![Alt text](snake.svg)
 
 
 
