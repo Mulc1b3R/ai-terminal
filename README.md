@@ -1,6 +1,3 @@
-# ai-terminal
-openai gpt 3.5 in your node.js terminal
-
 # AI-Terminal
 
 AI chat assistant using OpenAI’s ChatGPT 3.5 Turbo API
