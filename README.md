@@ -20,7 +20,9 @@ double click index.html for our 'thank you!'.    // optional.
 (NOTE: The final 'ai-terminal' folder that you navigated to , ' output/ai-terminal' is your working repo.
 you can jettison the initial folder that you unzipped from github ,along with the 'output'folder after dragging your working repo
 to desktop.You are free to use and distribute your new software under apache 2.0 , remember to delete your
-api key from your .env file if you do reproduce and distribute.)
+api key from your .env file if you do reproduce and distribute.))
+
+![Alt text](genesis.gif)
 
 
 
