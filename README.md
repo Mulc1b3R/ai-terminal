@@ -12,7 +12,7 @@ Download the.zip folder / unzip and open in IDE.
 3. cd output/ai-terminal
 4. add open ai api key to.env and save.
 5. npm install openai
-6. node script.js  // the ai will appear in your terminal.
+6. node script.js                                        // the ai will appear in your terminal.
 7. kiss goodbye to complex frameworks with 'genesis'.   // ask open ai gpt 3.5 a question and press return.
 
 double click index.html for our 'thank you!'.    // optional.
