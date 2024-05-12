@@ -2,6 +2,8 @@
 
 AI chat assistant using OpenAI’s ChatGPT 3.5 Turbo API
 
+Download the.zip folder / unzip and open in IDE.
+
 ![Alt text](AIChatDemo.png)
 
 
